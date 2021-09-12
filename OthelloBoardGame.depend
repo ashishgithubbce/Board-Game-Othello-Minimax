@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631357927 source:d:\projects\othelloboardgame\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+
